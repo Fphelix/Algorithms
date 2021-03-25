@@ -1,0 +1,13 @@
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\bin\Debug\netcoreapp3.1\AdjacentArray.exe
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\bin\Debug\netcoreapp3.1\AdjacentArray.deps.json
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\bin\Debug\netcoreapp3.1\AdjacentArray.runtimeconfig.json
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\bin\Debug\netcoreapp3.1\AdjacentArray.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\bin\Debug\netcoreapp3.1\AdjacentArray.dll
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\bin\Debug\netcoreapp3.1\AdjacentArray.pdb
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\obj\Debug\netcoreapp3.1\AdjacentArray.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\obj\Debug\netcoreapp3.1\AdjacentArray.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\obj\Debug\netcoreapp3.1\AdjacentArray.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\obj\Debug\netcoreapp3.1\AdjacentArray.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\obj\Debug\netcoreapp3.1\AdjacentArray.dll
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\obj\Debug\netcoreapp3.1\AdjacentArray.pdb
+C:\Users\wwstudent\source\repos\AdjacentArray\AdjacentArray\obj\Debug\netcoreapp3.1\AdjacentArray.genruntimeconfig.cache
